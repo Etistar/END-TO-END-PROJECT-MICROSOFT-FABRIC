@@ -89,7 +89,7 @@ Inspiré de : [Analyse sismique avec Fabric (vidéo)](https://www.youtube.com/wa
   * Dates paramétrables dynamiquement
   * Orchestration via Microsoft Fabric
 
-  ![Mon schema](Pipeline.PNG)
+  ![Mon schema](Pipeline.png)
 
 ---
 
@@ -102,7 +102,7 @@ Inspiré de : [Analyse sismique avec Fabric (vidéo)](https://www.youtube.com/wa
   * Magnitude par région
   * Évolution temporelle des séismes
 
-![Mon schema](PowerBI.PNG)
+![Mon schema](PowerBI.png)
 ---
 
 ## Avantages du projet
@@ -112,7 +112,7 @@ Inspiré de : [Analyse sismique avec Fabric (vidéo)](https://www.youtube.com/wa
 * Intégration native avec Microsoft Fabric et Power BI
 * Automatisation possible de bout en bout
 
-![Mon schema](DataLineage.PNG)
+![Mon schema](DataLineage.png)
 
 ---
 
